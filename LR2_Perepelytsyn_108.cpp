@@ -13,12 +13,7 @@ int main()
 	cout << fixed << setprecision(2) << -121.0 << endl;
 	cout  << showpos << 1 << 24 << noshowpos << "\n" << endl;
 	
-	// текстові дані
-	cout << "String1\n\tString2\n\t\tString3" << endl;
-	cout << "\tString1\nString2" << endl;
-	cout << "3";
-	cout << '*';
-	cout << "\tString\n1" << endl;
+	// LR7 code
 } 
 
 
