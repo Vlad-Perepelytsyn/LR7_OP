@@ -20,35 +20,6 @@ int main()
 	cout << "S=" << S << '\t' << "P=" << P << endl;
 	*/
 
-	/*
-	int r;
-	double S, P;
-	cout << "Ââåä³äü ğàä³óñ êëóìáè r:";
-	cin >> r;
-	S = 3.14 * r * r;
-	P = 2 * 3.14 * r;
-	cout << "S=" << S << '\t' << "P=" << P << endl;
-	*/
-	
-	/*
-	int r = 5;
-	double S, P;
-	S = 3.14 * r * r;
-	P = 2 * 3.14 * r;
-	printf("S = %lf P = %lf", S, P);
-	*/
-
-	
-	int r;
-	double S, P;
-	printf("Ââåä³äü ğàä³óñ êëóìáè r:");
-	scanf_s("%d", &r);
-	S = 3.14 * r * r;
-	P = 2 * 3.14 * r;
-	printf("S = %lf P = %lf", S, P);
-	
-
-	return 0;
-
+// LR12
 
 }
